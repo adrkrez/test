@@ -1,15 +1,20 @@
 mapa.py wersja 0.11
 Generowanie mapy ze śladami wycieczek pieszych (lub jakichkolwiek innych).
-Stworzone z pomocą Claude
+Stworzone z pomocą Claude.
 Konieczny zainstalowany najnowszy python
 
-Najpierw tworzymy mapę ze śladami (gdy dojdzie kilka nowych - tworzymy nową mapę)
-
-eksploatator plikow/wchodzimy do katalogu gdzie znajdują się slady GPS i mapa.py, w pasku wpisujemy cmd i wpisujemy 
-
-python mapa.py
-
-mapa zostanie wygenerowana
+Instrukcja:
+Instalujemy Python
+Do katalogu np. Moje Trasy kopiujemy ślady wycieczek w formacie gpx.
+Do tego samego katalogu kopiujemy plik mapa.py
+klikamy Start prawym klikiem myszy (Windows 10)
+Wybieramy Eksploatator Plików
+Wchodzimy do katalogu gdzie znajdują się ślady GPS i mapa.py
+Klikamy na pesek adresu aby podświetlił się na niebiesko
+Wpisujemy cmd i enter. Uruchomi się okno
+Wpisujemy: 
+python mapa.py i enter
+Mapa zostanie wygenerowana w formie pliku moje trasy.html
 
 przegladanie mapy
 
