@@ -31,7 +31,9 @@ przeglądanie mapy
 
 Na komputerze
 
-włączamy serwer python -m http.server 8000
+Wpisujemy cmd i enter. Uruchomi się okno
+
+włączamy serwer:  python -m http.server 8000
 
 wchodzimy przez przeglądarkę na adres: http://localhost:8000/moje_trasy.html
 
